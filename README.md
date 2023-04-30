@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turjo998&label=Profile%20views&color=0e75b6&style=flat" alt="turjo998" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turjo998" alt="turjo998" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turjo998" alt="turjo998" /></a> </p>
+ -->
 - 🔭 I’m currently working on **web application development**
 
 - 🌱 I’m currently learning **software design pattern , spring framework**
@@ -33,15 +33,15 @@
 
 
 ## 💻 Work Experience
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
-- Company Name, [Job Title], [Employment Dates]<br />
-  Brief description of your role and responsibilities. Achievements or notable projects you worked on. Technologies used: [List of technologies].
+- BJIT Group, Trainee Software Engineer, April 2023 - Present <br/>
+  Full Stack Software Engineer (Java EE)
+- Trenza Softwares, Web Application Developer, February 2023 - April 2023 <br/>
+  Full Stack Web Developer (Php , Bootstrap , Laravel , Vue.js)
 
 ## 🎓 Education
-- Ahsanullah University Of Science & Technology, [B.Sc in CSE], [01-01-2023]
-- Government Science College, [HSC , Science], [23-07-2017]
+- Ahsanullah University Of Science & Technology, B.Sc in CSE, 1st January 2023
+- Government Science College, HSC , Science, 23rd July 2017
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turjo998&show_icons=true&locale=en" alt="turjo998" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=turjo998&show_icons=true&locale=en" alt="turjo998" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turjo998&" alt="turjo998" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=turjo998&" alt="turjo998" /></p>
